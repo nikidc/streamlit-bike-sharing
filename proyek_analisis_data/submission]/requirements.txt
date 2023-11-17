@@ -1,0 +1,10 @@
+REQUIREMENTS
+
+python 3.11.6
+numpy
+pandas 
+scipy 
+matplotlib 
+seaborn 
+jupyter 
+streamlit
