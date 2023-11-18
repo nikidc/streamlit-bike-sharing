@@ -33,7 +33,7 @@ def dfg(df):
 
 #menyiapkan dataframe
 # load berkas bike_day_df.csv
-bike_day_df = pd.read_csv("bike_day_df.csv")
+bike_day_df = pd.read_csv("/bike_day_df.csv")
 
 # mengurutkan DataFrame berdasarkan order_date serta memastikan kedua kolom tersebut bertipe datetime
 datetime_columns = ["dteday"]
